@@ -37,3 +37,4 @@ console.log(cuposLibres[1]);
 console.log(cuposLibres[2]);
 console.log(cuposLibres[3]);
 console.log(cuposLibres[4]);
+console.log(cuposLibres[5]);
